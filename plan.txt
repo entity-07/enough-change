@@ -1,0 +1,15 @@
+Convenience Store
+
+assign a variable price to a random integer between 0-20 dollars
+
+assign an array change to 4 random integers between 1-100
+
+the first number in the array is the number of quarters, the second integer is the number of dimes, the thrid integer is the number of nickels and the fourth integer is the number of pennies.
+
+convert each of the values in the array to their worth in dollars and sum them up
+
+compare them to the price variable
+
+if the change is equal to or greater than price. return true.
+
+else you return false.
